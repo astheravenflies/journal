@@ -1,6 +1,6 @@
 # Site settings
-email: jcr@chairsandtables.org
-baseurl: "//astheravenfli.es/journal"
+email: ac@chairsandtables.org
+baseurl: "//astheravenflies.github.io/journal"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: UA-97711783-2
@@ -22,7 +22,7 @@ twitter: http://twitter.com/chairstablesorg
 instagram: http://instagram.com/chairstablesorg
 
 ac-name: Asad Chishti
-ac-profile_img: http://astheravenfli.es/img/journal/IMG_8521-JCR-2000-web.jpg
+ac-profile_img: http://astheravenflies.github.io/img/journal/IMG_8521-JCR-2000-web.jpg
 ac-profile: Asad is an inventor with his head up in the clouds and his feet down in the dirt.
 ac-social: 
   facebook: https://www.facebook.com/chishti.asad
@@ -31,7 +31,7 @@ ac-social:
   instagram: http://instagram.com/asad_ch
   
 jcr-name: Jonathon Reed
-jcr-profile_img: http://astheravenfli.es/img/journal/IMG_0010-JCR-2000-web.jpg
+jcr-profile_img: http://astheravenflies.github.io/img/journal/IMG_0010-JCR-2000-web.jpg
 jcr-profile: Jonathon is a semi-professional adventurer with roots in education and activism.
 jcr-social:
   facebook: http://facebook.com/jonathonreed
